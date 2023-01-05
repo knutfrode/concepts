@@ -1,0 +1,12 @@
+name: concepts
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - xarray
+  - scipy
+  - netcdf4
+  - ipython
+  - jupyter
+  - pip
